@@ -5,6 +5,7 @@ namespace BlazorToDoList.App
 {
     public class Program
     {
+        //testing
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
